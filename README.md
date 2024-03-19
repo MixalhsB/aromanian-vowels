@@ -2,7 +2,7 @@
 
 Find preprocessed vowel-formant data in **aromanian_targets.csv** (mid-to-close central vowels, incl. annotated information) and **aromanian_all_raw.csv** (any vowels).
 
-Speaker-specific PRAAT TextGrid files and extracted formants are stored in the subdirectories **dialect_ar** (for Pindian) and **dialect_rr** (for Farsherot).
+Speaker-specific [PRaat](https://www.fon.hum.uva.nl/praat/) TextGrid files and extracted formants are stored in the subdirectories **dialect_ar** (for Pindian) and **dialect_rr** (for Farsherot).
 
 ### Code
 
